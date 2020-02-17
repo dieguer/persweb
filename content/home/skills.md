@@ -18,18 +18,54 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
   description = "100%"  
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "100%"  
+
+[[feature]]
+  icon = "icon-scala"
+  icon_pack = "fitz"
+  name = "Scala"
+  description = "100%" 
+
+[[feature]]
+  icon = "icon-shell"
+  icon_pack = "fitz"
+  name = "Shell"
+  description = "100%"
+[[feature]]
+  icon = "icon-azure"
+  icon_pack = "fitz"
+  name = "Azure"
+  description = "100%"
+
+[[feature]]
+  icon = "icon-postgres"
+  icon_pack = "fitz"
+  name = "Postgres"
+  description = "100%"
+
+[[feature]]
+  icon = "icon-mysql"
+  icon_pack = "fitz"
+  name = "MySQL"
+  description = "100%"          
+
+[[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "git"
+  description = "90%"
+    
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "splotch"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Apache Spark"
+  description = "100%"
 
 +++

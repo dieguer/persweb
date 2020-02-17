@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "Researcher"
+  company = "Centro de Estudios Fiscales"
+  company_url = "https://cef.sri.gob.ec/"
+  location = "Quito-Ecuador"
+  date_start = "2015-10-01"
+  date_end = "2017-07-02"
+  description = """ Plan, design, and carry out quantitative research projects
+related to the evaluation of tax imposition effects on welfare."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Researcher"
+  company = "Instituto Nacional de Estadistica y Censos"
+  company_url = "https://www.ecuadorencifras.gob.ec/institucional/home/"
+  location = "Quito-Ecuador"
+  date_start = "2013-07-01"
+  date_end = "2015-09-30"
+  description = """Plan, design, and carry out quantitative research projects
+related to poverty, inequality, and other welfare dimensions."""
+
+[[experience]]
+  title = "Research/Teaching Assistant"
+  company = "Emory University, Department of Economics"
+  company_url = "http://economics.emory.edu/home/index.html"
+  location = "Atlanta"
+  date_start = "2017-08-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Researcher"
+  company = "Instituto de la Ciudad de Quito"
+  company_url = "https://www.institutodelaciudad.com.ec/"
+  location = "Atlanta"
+  date_start = "2011-09-01"
+  date_end = "2013-06-30"
+  description = """"""
 
 +++

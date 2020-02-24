@@ -50,9 +50,9 @@ related to poverty, inequality, and other welfare dimensions."""
   title = "Researcher"
   company = "Instituto de la Ciudad de Quito"
   company_url = "https://www.institutodelaciudad.com.ec/"
-  location = "Atlanta"
+  location = "Quito-Ecuador"
   date_start = "2011-09-01"
   date_end = "2013-06-30"
-  description = """"""
+  description = """Policy research about Urban Economics and Economic Geography of the Metropolitan District of Quito"""
 
 +++

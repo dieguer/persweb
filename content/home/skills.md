@@ -27,6 +27,13 @@ subtitle = ""
   description = ""  
 
 [[feature]]
+  icon = "splotch"
+  icon_pack = "fas"
+  name = "Apache Spark"
+  description = ""
+
+[[feature]]
+
   icon = "icon-scala"
   icon_pack = "fitz"
   name = "Scala"
@@ -37,6 +44,13 @@ subtitle = ""
   icon_pack = "fitz"
   name = "Shell"
   description = ""
+
+[[feature]]
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "git"
+  description = ""
+
 [[feature]]
   icon = "icon-azure"
   icon_pack = "fitz"
@@ -55,17 +69,8 @@ subtitle = ""
   name = "MySQL"
   description = ""          
 
-[[feature]]
-  icon = "git-alt"
-  icon_pack = "fab"
-  name = "git"
-  description = ""
     
   
-[[feature]]
-  icon = "splotch"
-  icon_pack = "fas"
-  name = "Apache Spark"
-  description = ""
+
 
 +++

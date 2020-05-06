@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Questiones Urbano Regionales*"
+url_pdf: "files/mancheno-2013-subcentros.pdf"
 ---
 

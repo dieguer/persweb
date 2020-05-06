@@ -7,5 +7,6 @@ publication_types: ["0"]
 abstract: ""
 featured: false
 publication: "*INEC*"
+url_pdf: "files/rojas-molina.pdf"
 ---
 

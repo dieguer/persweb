@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Reporte de Pobreza por Consumo Ecuador 2006-2014*"
+url_pdf: "files/reportePobreza.pdf"
 ---
 

@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Analı́tika: revista de análisis estadśtico*"
+url_pdf: "files/rojas2015_analitik.pdf"
 ---
 

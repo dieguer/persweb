@@ -3,8 +3,8 @@ title: " Survival Analysis of Banknote Circulation: Fitness, Network Structure, 
 date: 2020-01-01
 publishDate: 2020-02-17T14:27:10.996696Z
 authors: ["Juan Estrada", "Kim P Huynh", "David T Jacho-Chávez", "Diego Rojas"]
-publication_types: ["2"]
-abstract: ""
+publication_types: ["3"]
+abstract: "The efficient distribution of banknotes is a first-order responsibility of central banks. We study the distribution patterns of banknotes with an administrative dataset from the Bank of Canada’s Currency Information Management System. The single note inspection procedure generates a sample of 900 million banknotes in which we can trace the length of the stay of a banknote in the market. The data contains information regarding the location, physical fitness of a banknote at any point in time, and where and when the banknote returns to the Bank of Canada’s distribution centres. K–prototypes clustering classifies banknotes into types. A hazard model estimates the duration of banknotes based on their clusters and characteristics of the banknotes to understand the duration of stay in circulation. An adaptive elastic net provides an algorithm for dimension reduction. It is found that while the distribution of the duration is affected by fitness measures, their effects are negligible when compared to the influence exerted by the clusters related to banknote denominations"
 featured: false
 publication: "*Advances in Econometrics*"
 

@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Federal Reserve Bank of Atlanta"
+  company_url = "https://www.frbatlanta.org/"
+  location = "Atlanta-USA"
+  date_start = "2020-05-28"
+  date_end = ""
+  description = """ Data processing and analytics for Principal Researcher."""
+
 [[experience]]
   title = "Researcher"
   company = "Centro de Estudios Fiscales"

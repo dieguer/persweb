@@ -1,14 +1,15 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Random Variable Visuals
+summary: A Shiny App that allows students to view and familiarize themselves with random variables.
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Visualization
+- Education
+
+date: "2018-11-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://example.org
-
+external_link: https://dirbshinyportfolio.shinyapps.io/visualizer_1
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: ShinyR App
   focal_point: Smart
 ---
